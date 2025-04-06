@@ -1,0 +1,6 @@
+streamlit
+beautifulsoup4
+requests
+sentence-transformers
+scikit-learn
+pandas

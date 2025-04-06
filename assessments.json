@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Cognitive Ability Test",
+      "description": "Measures a candidate’s ability to solve problems, analyze data, and think logically under pressure."
+    },
+    {
+      "title": "Situational Judgement Test",
+      "description": "Assesses decision-making and interpersonal skills in realistic workplace scenarios."
+    },
+    {
+      "title": "Personality Questionnaire",
+      "description": "Evaluates behavioral preferences to predict culture fit and work style."
+    },
+    {
+      "title": "Technical Skills Assessment - Python",
+      "description": "Tests proficiency in Python programming including algorithms, data structures, and libraries."
+    },
+    {
+      "title": "Leadership Potential Assessment",
+      "description": "Identifies candidates with strong leadership traits and strategic thinking abilities."
+    }
+  ]
+  
